@@ -77,6 +77,16 @@ Best Practices for Tor Browser ![Let's explore this!](https://www.privacyaffairs
 📌 The Intercept https://lnkd.in/dQW3NYuK
 
 
+### Limitations to keep in mind 
+
+📌Do not assume Tor is entirely safe. As Tor is entirely decentralised, law enforcement agencies or any third party can create and run their own Tor routers to monitor what data passes through them. You can read How-To Geek guidelines on how to safely use Tor.
+
+📌Use additional end-to-end encryption tools. Tor is not fully encrypted, meaning data can still be intercepted and read. Therefore, journalists should use dedicated encryption tools and always turn on a VPN when using Tor.
+
+📌Check ISPs terms and conditions. Due to Tor’s association with the “dark web” and potential illegal activity on its network, many ISPs ban the use of Tor in their terms and conditions. Consequently, they may limit the users’ internet speed or entirely cut them off completely for accessing it.
+
+
+
 
 
 
